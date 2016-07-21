@@ -1,2 +1,2 @@
 # stack-overflow-survey
-Code + Visualizations for processing 2016 Stack Overflow Survey Data
+Code, Visualizations, and Jupiter Notebook for processing 2016 Stack Overflow Survey Data. This is the complement to my blog post [Visualizing How Developers Rate Their Own Programming Skills](http://minimaxir.com/2016/07/stack-overflow/).
